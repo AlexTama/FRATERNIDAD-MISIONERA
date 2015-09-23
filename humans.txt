@@ -1,0 +1,19 @@
+/* www.fmcmisionera.co | Fraternidad Misionera de la Cruz  http://fmcmisionera.co */
+
+/*equipo de desarrollo*/
+	Desarrollador: Alexander Tamayo Pino
+	contacto: alextamayop@gmail.com
+	from: Dosquebradas, Colombia.
+
+/*Agradecimientos*/
+	Especial agradecimiento a Rogelio Pino y a Margarita García por brindarme el apoyo en el desarrollo del proyecto.
+También a las personas encargadas de la Fraternidad Misionera por permitirme ser parte del proyecto y en el aporte de mis conocimientos para su causa.
+
+
+/*Sitio-tecnologías que se usaron para el desarrollo del sitio*/
+	última actualización: 22/08/2015
+	lenguaje:Español
+	Standars: HTML5, CSS3, JavaScript y PHP
+	Componentes: jQuery
+	Software: SublimeText 2,Photoshop CS6, atomicbeta.io, Illustrator CS6.
+
