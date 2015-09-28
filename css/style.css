@@ -100,6 +100,48 @@ hr{
 	 
 }
 
+/********************************************************************************/
+/* MEDIA QUERY */
+/********************************************************************************/
+
+@media (min-width: 1300px){
+
+	#horizontal-line-story {
+    	border: 1px dashed #E67E22;
+    	position: absolute;
+    	top: 175px;
+    	/*right: 500px;*/
+    	width: 50%;
+	}
+
+	#vertical-line-story {
+	    border: 1px dashed #E67E22;
+	    height: 1080px;
+	    position: absolute;
+	    right: 670px;
+	    top: 175px;
+	}
+
+}
+
+@media (min-width: 1550px){
+
+	#horizontal-line-story {
+	    border: 1px dashed #E67E22;
+	    position: absolute;
+	    top: 175px;
+	    right: 500px;
+	    width: 50%;
+	}
+
+	#vertical-line-story {
+	    border: 1px dashed #E67E22;
+	    height: 1080px;
+	    position: absolute;
+	    right: 950px;
+	    top: 175px;
+	}
+}
 
 
 

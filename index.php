@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<?php include'INCLUDES/scripts.php'; ?>
+	<?php include 'INCLUDES/scripts.php'; ?>
 	<title>Fraternidad Misionera de la Cruz | Bienvenidos </title>
 </head>
 <body>
@@ -16,7 +16,7 @@
 					<?php include 'INCLUDES/menu.php'; ?>
 					
 					<!-- VÍDEO -->
-					<div style="color:#ffffff; margin: 23% auto; letter-spacing: 1px;">
+					<div style="color:#ffffff; margin-top:23%; letter-spacing: 1px;">
 						<a href=""><img style="width:10%; height=10%; " src="img/playVideo.svg" aria-hidden="true" alt=""></a>
 						<h3>NUESTRO HIMNO</h3>
 					</div>
